@@ -104,7 +104,7 @@ This is required to prevent advanced forms of tracking, but does come at the cos
 
 ### Mullvad Leta
 
-Mullvad Browser comes with DuckDuckGo set as the default [search engine](search-engines.md), but it also comes preinstalled with **Mullvad Leta**, a search engine which requires an active Mullvad VPN subscription to access. Mullvad Leta queries Google's paid search API directly, which is why it is limited to paying subscribers. However, it is possible for Mullvad to correlate search queries and Mullvad VPN accounts because of this limitation. For this reason we discourage the use of Mullvad Leta, even though Mullvad collects very little information about their VPN subscribers.
+Mullvad Browser comes with DuckDuckGo set as the default [search engine](search-engines.md), but it also comes preinstalled with **Mullvad Leta**, a search engine which requires an active Mullvad VPN subscription to access. Mullvad Leta queries Google's paid search API directly, which is why it is limited to paying subscribers. Also, Mullvad Leta has the option of using [Brave Search](https://www.privacyguides.org/en/search-engines/#brave-search) instead of Google results to display them while using Mullvad Leta. However, it is possible for Mullvad to correlate search queries and Mullvad VPN accounts because of this limitation. For this reason we discourage the use of Mullvad Leta, even though Mullvad collects very little information about their VPN subscribers.
 
 ## Firefox
 
